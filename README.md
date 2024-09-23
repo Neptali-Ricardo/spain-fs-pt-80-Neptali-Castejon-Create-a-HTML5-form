@@ -1,37 +1,24 @@
-# HTML Hello
+# Create an HTML5 Form
 
-The most basic boilerplate for any 4Geeks Academy student, start your first website from scratch.
+This project is a payment form designed with HTML and Bootstrap. It demonstrates how to structure and style a form clearly and accessibly.
 
-> You have a video tutorial on [how to use this template to create your first website here](https://youtu.be/dfbDCMu_p-0).
+## Description
 
-## View the live project
+The form features several fields that include card information, name, address, and payment options. This project is ideal for practicing layout techniques and understanding the use of Bootstrap for responsive design.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Font Awesome for icons
+- Bootstrap for styling
+
+## Installation Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/neptali-ricardo/spain-fs-pt-80-Neptali-Castejon-Create-an-HTML5-form.git
 
 You can view the final layout of this project at the following link:
 
-[View on GitHub Pages](https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Create-a-HTML5-form/)
-
-## What to do next?
-
-Create an `index.html` file with [the basic HTML structure](https://4geeks.com/es/lesson/what-is-html-learn-html-es#estructura-de-pgina) and see the live result by running a web server using the following command:
-
-```bash
-$ pip3 install flask && python3 server.py
-
-```
-
-- You can create as many HTML files as you want.
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
-
-### Contributors
-
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
-
-You can find other templates and resources like this at the [school's GitHub page](https://github.com/4geeksacademy/).
+https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Create-a-HTML5-form/

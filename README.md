@@ -19,6 +19,6 @@ The form features several fields that include card information, name, address, a
    ```bash
    git clone https://github.com/neptali-ricardo/spain-fs-pt-80-Neptali-Castejon-Create-an-HTML5-form.git
 
-You can view the final layout of this project at the following link:
+## You can view the final layout of this project at the following link:
 
 https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Create-a-HTML5-form/

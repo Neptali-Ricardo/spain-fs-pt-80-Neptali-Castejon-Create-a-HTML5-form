@@ -19,6 +19,6 @@ El formulario presenta varios campos que incluyen información de tarjeta, nombr
    ```bash
    git clone https://github.com/neptali-ricardo/spain-fs-pt-80-Neptali-Castejon-Crear-un-formulario-HTML5.git
 
-Puedes ver el maquetado final de este proyecto en el siguiente enlace:
+## Puedes ver el maquetado final de este proyecto en el siguiente enlace:
 
 https://neptali-ricardo.github.io/spain-fs-pt-80-Neptali-Castejon-Create-a-HTML5-form/
